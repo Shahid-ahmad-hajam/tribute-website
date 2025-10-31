@@ -164,13 +164,13 @@ footer p {
   }
 
   .about_section h2 {
-    font-size: 32px;
+    font-size: 3rem; /* scales better */
     text-align: center;
   }
 
   .about_section p {
      text-align: left; /* keep justification */ 
-     font-size: 16px;
+     font-size: 1rem;
      line-height: 26px;
   }
 
